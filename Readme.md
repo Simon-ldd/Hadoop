@@ -18,5 +18,6 @@
 15. [大数据学习笔记(十六): Hadoop优化](https://www.simonyy.com/2018/11/05/da-shu-ju-xue-xi-bi-ji-shi-liu-hadoop-you-hua/)
 16. [大数据学习笔记(十七): ZooKeeper介绍](https://www.simonyy.com/2018/11/22/da-shu-ju-xue-xi-bi-ji-shi-qi-zookeeper-jie-shao/)
 17. [大数据学习笔记(十八): ZooKeeper使用](https://www.simonyy.com/2018/11/24/da-shu-ju-xue-xi-bi-ji-shi-ba-zookeeper-shi-yong/)
-18. ... 
+18. [大数据学习笔记(十九): ZooKeeper应用](https://www.simonyy.com/2018/11/27/da-shu-ju-xue-xi-bi-ji-shi-jiu-zookeeper-ying-yong/)
+19. ...
 
