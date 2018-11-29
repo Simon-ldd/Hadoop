@@ -20,5 +20,6 @@
 17. [大数据学习笔记(十八): ZooKeeper使用](https://www.simonyy.com/2018/11/24/da-shu-ju-xue-xi-bi-ji-shi-ba-zookeeper-shi-yong/)
 18. [大数据学习笔记(十九): ZooKeeper应用](https://www.simonyy.com/2018/11/27/da-shu-ju-xue-xi-bi-ji-shi-jiu-zookeeper-ying-yong/)
 19. [大数据学习笔记(二十): Hive安装部署](https://www.simonyy.com/2018/11/28/da-shu-ju-xue-xi-bi-ji-er-shi-hive-an-zhuang-bu-sh/)
-20. ...
+20. [大数据学习笔记(二十一): Hive数据类型](https://www.simonyy.com/2018/11/29/da-shu-ju-xue-xi-bi-ji-er-shi-yi-hive-shu-ju-lei-x/)
+21. ...
 
