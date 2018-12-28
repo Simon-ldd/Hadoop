@@ -21,5 +21,21 @@
 18. [大数据学习笔记(十九): ZooKeeper应用](https://www.simonyy.com/2018/11/27/da-shu-ju-xue-xi-bi-ji-shi-jiu-zookeeper-ying-yong/)
 19. [大数据学习笔记(二十): Hive安装部署](https://www.simonyy.com/2018/11/28/da-shu-ju-xue-xi-bi-ji-er-shi-hive-an-zhuang-bu-sh/)
 20. [大数据学习笔记(二十一): Hive数据类型](https://www.simonyy.com/2018/11/29/da-shu-ju-xue-xi-bi-ji-er-shi-yi-hive-shu-ju-lei-x/)
-21. ...
+21. [大数据学习笔记(二十二): DDL&DML操作](https://www.simonyy.com/2018/12/02/da-shu-ju-xue-xi-bi-ji-er-shi-er-ddldml-cao-zuo/)
+22. [大数据学习笔记(二十三): Hive基本查询操作](https://www.simonyy.com/2018/12/03/da-shu-ju-xue-xi-bi-ji-er-shi-san-hive-ji-ben-cha/)
+23. [大数据学习笔记(二十四): Hive查询进阶](https://www.simonyy.com/2018/12/04/da-shu-ju-xue-xi-bi-ji-er-shi-si-hive-cha-xun-jin/)
+24. [大数据学习笔记(二十五): Hive调优](https://www.simonyy.com/2018/12/06/da-shu-ju-xue-xi-bi-ji-er-shi-wu-hive-diao-you/)
+25. [大数据学习笔记(二十六): Flume框架](https://www.simonyy.com/2018/12/08/da-shu-ju-xue-xi-bi-ji-er-shi-liu-flume-kuang-jia/)
+26. [大数据学习笔记(二十七): Flume进阶&Sqoop](https://www.simonyy.com/2018/12/09/da-shu-ju-xue-xi-bi-ji-er-shi-qi-flume-jin-jiesqoo/)
+27. [大数据学习笔记(二十八): Sqoop使用](https://www.simonyy.com/2018/12/10/da-shu-ju-xue-xi-bi-ji-er-shi-ba-sqoop-shi-yong/)
+28. [大数据学习笔记(二十九): Azkaban](https://www.simonyy.com/2018/12/16/da-shu-ju-xue-xi-bi-ji-er-shi-jiu-azkaban/)
+29. [大数据学习笔记(三十): Azkaban实战](https://www.simonyy.com/2018/12/16/da-shu-ju-xue-xi-bi-ji-san-shi-azkaban-shi-zhan/)
+30. [大数据学习笔记(三十一): HBase简介](https://www.simonyy.com/2018/12/25/da-shu-ju-xue-xi-bi-ji-san-shi-yi-hbase-jian-jie/)
+31. [大数据学习笔记(三十二): HBase表操作&读写流程](https://www.simonyy.com/2018/12/25/da-shu-ju-xue-xi-bi-ji-san-shi-er-hbase-biao-cao-z/)
+32. [大数据学习笔记(三十三): HBase API](https://www.simonyy.com/2018/12/25/da-shu-ju-xue-xi-bi-ji-san-shi-san-hbase-api/)
+33. [大数据学习笔记(三十四): HBase MR](https://www.simonyy.com/2018/12/25/da-shu-ju-xue-xi-bi-ji-san-shi-si-hbase-mr/)
+34. [大数据学习笔记(三十五): HBase优化](https://www.simonyy.com/2018/12/28/da-shu-ju-xue-xi-bi-ji-san-shi-wu-hbase-you-hua/)
+35. [大数据学习笔记(三十六): Kafka集群安装部署](https://www.simonyy.com/2018/12/28/da-shu-ju-xue-xi-bi-ji-san-shi-yi-kafka-ji-qun-an/)
+36. [大数据学习笔记(三十七): Kafka架构API](https://www.simonyy.com/2018/12/28/da-shu-ju-xue-xi-bi-ji-san-shi-qi-kafka-jia-gouapi-2/)
+37. ...
 
