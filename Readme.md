@@ -37,5 +37,6 @@
 34. [大数据学习笔记(三十五): HBase优化](https://www.simonyy.com/2018/12/28/da-shu-ju-xue-xi-bi-ji-san-shi-wu-hbase-you-hua/)
 35. [大数据学习笔记(三十六): Kafka集群安装部署](https://www.simonyy.com/2018/12/28/da-shu-ju-xue-xi-bi-ji-san-shi-yi-kafka-ji-qun-an/)
 36. [大数据学习笔记(三十七): Kafka架构API](https://www.simonyy.com/2018/12/28/da-shu-ju-xue-xi-bi-ji-san-shi-qi-kafka-jia-gouapi-2/)
-37. ...
+37. [大数据学习笔记(三十八): Storm安装部署](https://www.simonyy.com/2018/12/29/da-shu-ju-xue-xi-bi-ji-san-shi-ba-storm-an-zhuang/)
+38. ...
 
