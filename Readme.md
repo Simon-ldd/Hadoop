@@ -39,5 +39,6 @@
 36. [大数据学习笔记(三十七): Kafka架构API](https://www.simonyy.com/2018/12/28/da-shu-ju-xue-xi-bi-ji-san-shi-qi-kafka-jia-gouapi-2/)
 37. [大数据学习笔记(三十八): Storm安装部署](https://www.simonyy.com/2018/12/29/da-shu-ju-xue-xi-bi-ji-san-shi-ba-storm-an-zhuang/)
 38. [大数据学习笔记(三十九): Storm API](https://www.simonyy.com/2018/12/29/da-shu-ju-xue-xi-bi-ji-san-shi-jiu-storm-api/)
-39. ...
+39. [大数据学习笔记(四十): Storm编程模型](https://www.simonyy.com/2018/12/30/da-shu-ju-xue-xi-bi-ji-si-shi-storm-bian-cheng-mo/)
+40. ...
 
