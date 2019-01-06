@@ -42,5 +42,11 @@
 39. [大数据学习笔记(四十): Storm编程模型](https://www.simonyy.com/2018/12/30/da-shu-ju-xue-xi-bi-ji-si-shi-storm-bian-cheng-mo/)
 40. [大数据学习笔记(四十一): Flink安装部署](https://www.simonyy.com/2018/12/31/da-shu-ju-xue-xi-bi-ji-si-shi-yi-flink-an-zhuang-b/)
 41. [大数据学习笔记(四十二): Flink API](https://www.simonyy.com/2019/01/01/da-shu-ju-xue-xi-bi-ji-si-shi-er-flink-api/)
-42. ...
+42. [大数据学习笔记(四十三): Scala程序安装部署](https://www.simonyy.com/2019/01/01/da-shu-ju-xue-xi-bi-ji-si-shi-san-scala-cheng-xu-a/)
+43. [大数据学习笔记(四十四): Scala基础语法](https://www.simonyy.com/2019/01/01/da-shu-ju-xue-xi-bi-ji-si-shi-si-scala-ji-chu-yu-f/)
+44. [大数据学习笔记(四十五): Scala数组&集合](https://www.simonyy.com/2019/01/02/da-shu-ju-xue-xi-bi-ji-si-shi-wu-scala-shu-zuji-he/)
+45. [大数据学习笔记(四十六): Scala面向对象 & 模式匹配](https://www.simonyy.com/2019/01/03/da-shu-ju-xue-xi-bi-ji-si-shi-liu-scala-mian-xiang/)
+46. [大数据学习笔记(四十七): Scala并发编程模型AKKA](https://www.simonyy.com/2019/01/06/da-shu-ju-xue-xi-bi-ji-si-shi-qi-scala-bing-fa-bia/)
+47. [大数据学习笔记(四十八): Scala高级语法](https://www.simonyy.com/2019/01/06/da-shu-ju-xue-xi-bi-ji-si-shi-ba-scala-gao-ji-yu-f/)
+48. ...
 
