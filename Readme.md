@@ -48,5 +48,6 @@
 45. [大数据学习笔记(四十六): Scala面向对象 & 模式匹配](https://www.simonyy.com/2019/01/03/da-shu-ju-xue-xi-bi-ji-si-shi-liu-scala-mian-xiang/)
 46. [大数据学习笔记(四十七): Scala并发编程模型AKKA](https://www.simonyy.com/2019/01/06/da-shu-ju-xue-xi-bi-ji-si-shi-qi-scala-bing-fa-bia/)
 47. [大数据学习笔记(四十八): Scala高级语法](https://www.simonyy.com/2019/01/06/da-shu-ju-xue-xi-bi-ji-si-shi-ba-scala-gao-ji-yu-f/)
-48. ...
+48. [大数据学习笔记(四十九): Spark安装部署](https://www.simonyy.com/2019/01/08/da-shu-ju-xue-xi-bi-ji-si-shi-jiu-spark-an-zhuang/)
+49. ...
 
