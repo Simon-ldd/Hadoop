@@ -49,5 +49,8 @@
 46. [大数据学习笔记(四十七): Scala并发编程模型AKKA](https://www.simonyy.com/2019/01/06/da-shu-ju-xue-xi-bi-ji-si-shi-qi-scala-bing-fa-bia/)
 47. [大数据学习笔记(四十八): Scala高级语法](https://www.simonyy.com/2019/01/06/da-shu-ju-xue-xi-bi-ji-si-shi-ba-scala-gao-ji-yu-f/)
 48. [大数据学习笔记(四十九): Spark安装部署](https://www.simonyy.com/2019/01/08/da-shu-ju-xue-xi-bi-ji-si-shi-jiu-spark-an-zhuang/)
-49. ...
+49. [大数据学习笔记(五十): Spark RDD算子](https://www.simonyy.com/2019/01/10/da-shu-ju-xue-xi-bi-ji-wu-shi-spark-rdd-suan-zi/)
+50. [大数据学习笔记(五十一): Spark RDD高级算子](https://www.simonyy.com/2019/01/12/da-shu-ju-xue-xi-bi-ji-wu-shi-yi-spark-rdd-gao-ji/)
+51. [大数据学习笔记(五十二): Spark案例分析](https://www.simonyy.com/2019/01/13/da-shu-ju-xue-xi-bi-ji-wu-shi-er-spark-an-li-fen-x/)
+52. ...
 
