@@ -53,5 +53,6 @@
 51. [大数据学习笔记(五十一): Spark RDD高级算子](https://www.simonyy.com/2019/01/12/da-shu-ju-xue-xi-bi-ji-wu-shi-yi-spark-rdd-gao-ji/)
 52. [大数据学习笔记(五十二): Spark案例分析](https://www.simonyy.com/2019/01/13/da-shu-ju-xue-xi-bi-ji-wu-shi-er-spark-an-li-fen-x/)
 53. [大数据学习笔记(五十三): Spark Cache&CheckPoint](https://www.simonyy.com/2019/01/15/da-shu-ju-xue-xi-bi-ji-wu-shi-san-spark-cachecheck/)
-54. ...
+54. [大数据学习笔记(五十四): Spark 排序 & SparkSQL](https://www.simonyy.com/2019/01/17/da-shu-ju-xue-xi-bi-ji-wu-shi-si-spark-pai-xu-spa/)
+55. ...
 
